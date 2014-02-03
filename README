@@ -1,0 +1,7 @@
+Git Dictionary for me, by me.
+
+Gettin' started with mkdir, and git init.
+
+$mkdir DIRNAME
+$cd DIRNAME
+$git init
