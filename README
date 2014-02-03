@@ -9,6 +9,16 @@ $git init
 $git add README
 $git commit -m 'first commit'
 
-# set remote repo from CLI
+set remote repo from CLI
 $curl -u 'csta' https://api.github.com/user/repos -d '{"name":"LearnGit"}'
 $git push origin master
+
+To create a branch
+$git branch <name-of-branch>
+In order to pointer to head to a different branch,
+$git checkout <name-of-branch>
+
+In order to see the difference between two branches,
+$git diff <branch-1> <branch-2>
+
+
