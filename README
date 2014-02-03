@@ -8,3 +8,6 @@ $git init
 
 $git add README
 $git commit -m 'first commit'
+
+# set remote repo from CLI
+$curl -u 'csta' https://api.github.com/user/repos -d '{"name":"LearnGit"}'
