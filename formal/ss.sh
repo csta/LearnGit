@@ -1,0 +1,7 @@
+pwd
+
+$HOME
+
+$VIM
+
+env
