@@ -3,5 +3,5 @@ pwd
 $HOME
 
 $VIM
-
-env
+NAME='Chris'
+echo hello $NAME
